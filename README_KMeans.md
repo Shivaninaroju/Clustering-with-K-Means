@@ -23,5 +23,4 @@ We use the **Mall Customers dataset**, containing information about customer inc
 - Python 3.10+  
 - pandas, numpy, matplotlib, seaborn, scikit-learn  
 
-## 🚀 Purpose
-Understand and apply **unsupervised learning (K-Means)** to real-world customer segmentation.  
+
